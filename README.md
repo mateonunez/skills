@@ -13,6 +13,12 @@ If it doesn't hold up in production, it doesn't make the cut.
 ## Quick start
 
 ```bash
+npx skills add mateonunez/agentfiles
+```
+
+> or
+
+```bash
 git clone https://github.com/mateonunez/agentfiles.git
 cd agentfiles
 ./scripts/link-skills.sh
