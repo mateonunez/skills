@@ -88,19 +88,30 @@ Skills I use daily for code work.
 - **[node-native-tests](./skills/engineering/node-native-tests/SKILL.md)** — I use node:test + borp + c8, not Jest or Vitest. The runtime ships a test runner — I use it.
 - **[single-tool-per-job](./skills/engineering/single-tool-per-job/SKILL.md)** — Biome is enough. I don't run ESLint or Prettier. For every other job, one tool per job.
 - **[fastify-plugin-shape](./skills/engineering/fastify-plugin-shape/SKILL.md)** — How I write Fastify plugins — fastify-plugin wrapper, idempotency guard, decorator pattern, withX() helper for TS narrowing, module augmentation.
+- **[improve-codebase-arch](./skills/engineering/improve-codebase-arch/SKILL.md)** — Surface architectural friction and propose deepening opportunities — refactors that turn shallow modules into deep ones. Aim: testability and AI-navigability.
+- **[tdd](./skills/engineering/tdd/SKILL.md)** — Test-driven development with red-green-refactor loop. Vertical slices: one test, one implementation, repeat. Never write all tests first.
+- **[prototyping](./skills/engineering/prototyping/SKILL.md)** — Build throwaway prototypes to flush out design before committing. Routes between state/logic questions (terminal app) and UI questions (multiple variations on one route).
+- **[zoom-out](./skills/engineering/zoom-out/SKILL.md)** — Get a map of relevant modules and callers using the project's domain glossary vocabulary.
 
 ### Productivity
 
 General workflow tools, not code-specific.
 
+- **[caveman](./skills/productivity/caveman/SKILL.md)** — Ultra-compressed communication mode. Cuts token usage ~75% by dropping filler, articles, pleasantries while keeping technical accuracy.
 - **[conventional-commits-scoped](./skills/productivity/conventional-commits-scoped/SKILL.md)** — I write Conventional Commits with scopes. Scope comes from the repo's existing catalogue, never invented.
 - **[grill-me-mateo](./skills/productivity/grill-me-mateo/SKILL.md)** — Grill me on a plan or change before I write code, with my canonical four questions baked in: package boundary, error code, vertical slice, ADR.
+- **[write-a-skill](./skills/productivity/write-a-skill/SKILL.md)** — Create new agent skills with proper structure, progressive disclosure, and bundled resources.
+- **[to-issues](./skills/productivity/to-issues/SKILL.md)** — Break a plan, spec, or PRD into independently-grabbable issues using vertical-slice tracer bullets.
+- **[to-prd](./skills/productivity/to-prd/SKILL.md)** — Turn the current conversation context into a PRD and publish it to the issue tracker.
+- **[triage](./skills/productivity/triage/SKILL.md)** — Triage issues through a state machine driven by triage roles — category (bug/enhancement) and state (needs-triage, needs-info, ready-for-agent, ready-for-human, wontfix).
 
 ### Misc
 
 Tools I keep around but rarely use.
 
 - **[a11y-default-review](./skills/misc/a11y-default-review/SKILL.md)** — Quick accessibility pass after UI changes — keyboard nav, focus visibility, semantic HTML, aria-live, reduced motion. WCAG 2.1 AA bar.
+- **[types-first-guards](./skills/misc/types-first-guards/SKILL.md)** — Use strict TypeScript patterns — discriminated unions for domain concepts, exhaustive checks, nominal typing where needed to prevent ID mix-ups at compile time.
+- **[production-observability](./skills/misc/production-observability/SKILL.md)** — Include error telemetry, request context, and queue visibility in production code. Structured logging, tracing, metrics for external IO failures.
 
 ## Personal
 

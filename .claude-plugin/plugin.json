@@ -8,8 +8,19 @@
     "./skills/engineering/node-native-tests",
     "./skills/engineering/single-tool-per-job",
     "./skills/engineering/fastify-plugin-shape",
+    "./skills/engineering/improve-codebase-arch",
+    "./skills/engineering/tdd",
+    "./skills/engineering/prototyping",
+    "./skills/engineering/zoom-out",
     "./skills/productivity/conventional-commits-scoped",
     "./skills/productivity/grill-me-mateo",
-    "./skills/misc/a11y-default-review"
+    "./skills/productivity/caveman",
+    "./skills/productivity/write-a-skill",
+    "./skills/productivity/to-issues",
+    "./skills/productivity/to-prd",
+    "./skills/productivity/triage",
+    "./skills/misc/a11y-default-review",
+    "./skills/misc/types-first-guards",
+    "./skills/misc/production-observability"
   ]
 }
