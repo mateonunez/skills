@@ -5,7 +5,7 @@
 
 ## Context
 
-This repo follows the conventions encoded in [`mateonunez-skills`](https://github.com/mateonunez/agentfiles). Recording the decision here so the next contributor (human or agent) knows the choice was deliberate.
+This repo follows the conventions encoded in [`mateonunez-skills`](https://github.com/mateonunez/skills). Recording the decision here so the next contributor (human or agent) knows the choice was deliberate.
 
 ## Decision
 

@@ -1,6 +1,6 @@
 # mateonunez-skills
 
-[![skills.sh](https://skills.sh/b/mateonunez/agentfiles)](https://skills.sh/mateonunez/agentfiles)
+[![skills.sh](https://skills.sh/b/mateonunez/skills)](https://skills.sh/mateonunez/skills)
 
 > Shipping AIt. Music on; nonsense off.
 
@@ -13,13 +13,13 @@ If it doesn't hold up in production, it doesn't make the cut.
 ## Quick start
 
 ```bash
-npx skills add mateonunez/agentfiles
+npx skills add mateonunez/skills
 ```
 
 > or
 
 ```bash
-git clone https://github.com/mateonunez/agentfiles.git
+git clone https://github.com/mateonunez/skills.git
 cd agentfiles
 ./scripts/link-skills.sh
 ```
