@@ -9,3 +9,7 @@ Skills I use daily for code work.
 - **[node-native-tests](./node-native-tests/SKILL.md)** — I use node:test + borp + c8, not Jest or Vitest. The runtime ships a test runner — I use it.
 - **[single-tool-per-job](./single-tool-per-job/SKILL.md)** — Biome is enough. I don't run ESLint or Prettier. For every other job, one tool per job.
 - **[fastify-plugin-shape](./fastify-plugin-shape/SKILL.md)** — How I write Fastify plugins — fastify-plugin wrapper, idempotency guard, decorator pattern, withX() helper for TS narrowing, module augmentation.
+- **[improve-codebase-arch](./improve-codebase-arch/SKILL.md)** — Surface architectural friction and propose deepening opportunities — refactors that turn shallow modules into deep ones. Aim: testability and AI-navigability.
+- **[tdd](./tdd/SKILL.md)** — Test-driven development with red-green-refactor loop. Vertical slices: one test, one implementation, repeat. Never write all tests first.
+- **[prototyping](./prototyping/SKILL.md)** — Build throwaway prototypes to flush out design before committing. Routes between state/logic questions (terminal app) and UI questions (multiple variations on one route).
+- **[zoom-out](./zoom-out/SKILL.md)** — Get a map of relevant modules and callers using the project's domain glossary vocabulary.
