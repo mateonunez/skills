@@ -1,0 +1,15 @@
+{
+  "name": "mateonunez-skills",
+  "skills": [
+    "./skills/engineering/setup-mateonunez-skills",
+    "./skills/engineering/result-not-throw",
+    "./skills/engineering/entity-normalization",
+    "./skills/engineering/vertical-slices",
+    "./skills/engineering/node-native-tests",
+    "./skills/engineering/single-tool-per-job",
+    "./skills/engineering/fastify-plugin-shape",
+    "./skills/productivity/conventional-commits-scoped",
+    "./skills/productivity/grill-me-mateo",
+    "./skills/misc/a11y-default-review"
+  ]
+}
