@@ -13,3 +13,4 @@ Skills I use daily for code work.
 - **[tdd](./tdd/SKILL.md)** — Test-driven development with red-green-refactor loop. Vertical slices: one test, one implementation, repeat. Never write all tests first.
 - **[prototyping](./prototyping/SKILL.md)** — Build throwaway prototypes to flush out design before committing. Routes between state/logic questions (terminal app) and UI questions (multiple variations on one route).
 - **[zoom-out](./zoom-out/SKILL.md)** — Get a map of relevant modules and callers using the project's domain glossary vocabulary.
+- **[code-review](./code-review/SKILL.md)** — Review a diff or PR against my conventions. Findings are triaged by severity (correctness → conventions → polish), each convention finding cites the skill it violates.
