@@ -6,3 +6,4 @@ Tied to my own setup — `mateonunez.co`, `ait`, and my dev environment. Not pro
 - **[ait](./ait/SKILL.md)** — Architectural invariants for ait — pnpm monorepo, Fastify, Drizzle, Qdrant, Ollama, BullMQ, OAuth connectors.
 - **[colemak-pair-programming](./colemak-pair-programming/SKILL.md)** — When pair-programming on my machine, navigation keys are Colemak `hnei`, not QWERTY `hjkl`. Don't suggest hjkl mappings.
 - **[feature-flow](./feature-flow/SKILL.md)** — My default workflow for non-trivial features at work: understand read-only → plan mode + grill on six fork categories → implement per approved plan → verify honestly.
+- **[disk-sweep](./disk-sweep/SKILL.md)** — Sweep my Mac for closed work: merged worktrees and branches, Docker leftovers, tool caches, simulators. Deterministic inventory, one grill round, one command that deletes only what I approved.
